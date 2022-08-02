@@ -28,7 +28,7 @@
     </div>
 
     <?php // debug(vendor\core\Db::$countSql)?>
-    <?php // debug(vendor\core\Db::$queries)?> 
+    <?php // debug(vendor\core\Db::$queries)...?> 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script> 
